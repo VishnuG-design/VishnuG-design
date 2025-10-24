@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Vishnu;💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Vishnu+G;💻+Data+Analyst;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 ```python
 class Developer:
     def __init__(self):
-        http://self.name = "${YOUR_NAME}"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["English", "Hindi"]
+        http://self.name = "${Vishnu G}"
+        self.role = "Data Analyst"
+        self.language_spoken = ["English", "Hindi", "Kannada", "Marathi"]
         self.location = "${YOUR_LOCATION}"
         self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
         self.interests = ["Web Dev", "Open Source", "Automation"]
